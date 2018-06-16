@@ -1,0 +1,16 @@
+{
+  "name": "fly-redirects",
+  "version": "0.0.1",
+  "description": "Fly Edge App Library for Common Redirect",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/initialized/fly-redirects.git"
+  },
+  "author": "Brett Gibson",
+  "license": "ISC",
+  "homepage": "https://github.com/initialized/fly-redirects"
+}
